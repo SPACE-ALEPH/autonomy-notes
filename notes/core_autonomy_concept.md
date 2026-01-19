@@ -58,6 +58,8 @@ therefore rely on the same autonomy principles at the mission level.
 
 ## Autonomy Scope (What the Software Does)
 
+_Autonomy decisions explicitly gate quantum operations, including the decision to defer or prohibit actions._
+
 Autonomous functions developed at ℵ - SYSTEMS include:
 
 - Continuous monitoring of system and payload health
