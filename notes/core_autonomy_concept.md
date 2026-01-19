@@ -1,5 +1,8 @@
 # Core Autonomy Concept - ℵ - SYSTEMS
 
+_This document defines autonomy strictly at the mission level and
+does not address payload-level quantum control._
+
 ## What Autonomy Means at ℵ - SYSTEMS
 
 At ℵ - SYSTEMS, autonomy is the capability of a space system to make
