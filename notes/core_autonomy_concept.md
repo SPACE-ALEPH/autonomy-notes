@@ -3,6 +3,8 @@
 _This document defines autonomy strictly at the mission level and
 does not address payload-level quantum control._
 
+_Mission-state evaluation is a foundational autonomy function that determines whether quantum operations are permitted, constrained, or prohibited._
+
 ## What Autonomy Means at ℵ - SYSTEMS
 
 At ℵ - SYSTEMS, autonomy is the capability of a space system to make
