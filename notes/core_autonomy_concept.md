@@ -85,6 +85,8 @@ The human defines intent. Autonomy executes safely within constraints.
 
 ## Design Principles
 
+_All autonomous decisions must be traceable to observable inputs and explicit rules, ensuring explainability and human trust._
+
 ℵ - SYSTEMS follows a software-first autonomy philosophy:
 
 - Deterministic and explainable behavior over opaque optimization
