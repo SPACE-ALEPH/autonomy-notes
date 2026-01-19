@@ -57,7 +57,7 @@ Recommended reading order:
 ## Related Artifacts
 
 - Technical overview (PDF):  
-  https://space-aleph.github.io/Aleph-Systems_Phase-0_Technical_Overview.pdf
+  [https://space-aleph.github.io/Aleph-Systems_Phase-0_Technical_Overview.pdf](https://github.com/SPACE-ALEPH/space-aleph.github.io/blob/main/%D7%90%20-%20SYSTEMS_Phase-0_Technical_Overview.pdf)
 
 - Mission simulation foundation:  
   https://github.com/SPACE-ALEPH/mission-sim
