@@ -1,3 +1,9 @@
+> **Phase Status:**  
+> Phase 0 is complete and frozen (up to Phase 0.3).
+> This repository documents foundational research and
+> minimal capability grounding.
+
+
 # Autonomy Notes
 
 This repository contains research notes and system-level thinking
