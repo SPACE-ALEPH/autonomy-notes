@@ -19,4 +19,4 @@ To support the development of software-first space architectures
 that enable advanced payloads such as quantum computing systems.
 
 ## Status
-Phase 0 — Conceptual research
+Phase 0 - Conceptual research
