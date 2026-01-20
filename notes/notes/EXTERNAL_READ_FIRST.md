@@ -1,4 +1,4 @@
-# ℵ – SYSTEMS — External Read Guide
+# ℵ - SYSTEMS - External Read Guide
 
 This repository documents the Phase 0 research foundations of ℵ – SYSTEMS.
 
@@ -10,7 +10,7 @@ All work is research-stage, simulation-based, and software-first.
 
 ---
 
-## What ℵ – SYSTEMS Is
+## What ℵ - SYSTEMS Is
 
 ℵ – SYSTEMS develops:
 - Mission autonomy architectures
@@ -24,7 +24,7 @@ under extreme environmental and operational constraints.
 
 ## What ℵ – SYSTEMS Is Not
 
-ℵ – SYSTEMS does not claim:
+ℵ - SYSTEMS does not claim:
 - Quantum advantage or supremacy
 - Flight-ready systems
 - Hardware development or validation
