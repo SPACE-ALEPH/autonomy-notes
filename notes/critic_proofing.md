@@ -87,5 +87,5 @@ Current deliverables include:
 - Simulation environments supporting autonomy decisions
 - Clear system definitions and constraints documentation
 
-These artifacts support validation, collaboration,
-and future integration—not immediate flight.
+_These artifacts support validation, collaboration,
+and future integration - not immediate flight._
